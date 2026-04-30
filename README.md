@@ -1,6 +1,7 @@
-<img src="![Uploading image.png…]()
+<img src="<img width="1086" height="1448" alt="WhatsApp Image 2026-04-30 at 11 55 36 PM" src="https://github.com/user-attachments/assets/15f5cb81-244d-44d8-ac8f-07bad5df478c" />
+" />
 "
-## Hi there 👋
+### Hi there, I'm Ghazal! 👋
 
 <!--
 **ghazalnidalhanani/ghazalnidalhanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
