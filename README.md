@@ -1,6 +1,4 @@
-<img src="<img width="1086" height="1448" alt="WhatsApp Image 2026-04-30 at 11 55 36 PM"  
-" />
-"
+
 ### Hi there, I'm Ghazal! 👋
 
 <!--
